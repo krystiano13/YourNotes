@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YourNotes/home/static/css/main.553b286a.chunk.css",
+    "main.js": "/YourNotes/home/static/js/main.a3965684.chunk.js",
+    "main.js.map": "/YourNotes/home/static/js/main.a3965684.chunk.js.map",
+    "runtime-main.js": "/YourNotes/home/static/js/runtime-main.44dcc33c.js",
+    "runtime-main.js.map": "/YourNotes/home/static/js/runtime-main.44dcc33c.js.map",
+    "static/js/2.1cb25d1d.chunk.js": "/YourNotes/home/static/js/2.1cb25d1d.chunk.js",
+    "static/js/2.1cb25d1d.chunk.js.map": "/YourNotes/home/static/js/2.1cb25d1d.chunk.js.map",
+    "index.html": "/YourNotes/home/index.html",
+    "precache-manifest.f613fba6e266283d56c725b8310413e7.js": "/YourNotes/home/precache-manifest.f613fba6e266283d56c725b8310413e7.js",
+    "service-worker.js": "/YourNotes/home/service-worker.js",
+    "static/css/main.553b286a.chunk.css.map": "/YourNotes/home/static/css/main.553b286a.chunk.css.map",
+    "static/js/2.1cb25d1d.chunk.js.LICENSE.txt": "/YourNotes/home/static/js/2.1cb25d1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44dcc33c.js",
+    "static/js/2.1cb25d1d.chunk.js",
+    "static/css/main.553b286a.chunk.css",
+    "static/js/main.a3965684.chunk.js"
+  ]
+}
